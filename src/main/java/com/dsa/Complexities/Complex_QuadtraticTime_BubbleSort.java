@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.Complexities;
 
 public class Complex_QuadtraticTime_BubbleSort {
     static void bubbleSort() {
